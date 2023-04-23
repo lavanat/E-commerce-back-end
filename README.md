@@ -15,4 +15,4 @@ You can use this application to demonstrate and start a backend application to a
 
 
 ## Screenshot of Application
-![Screenshot of Insomnia Routes](./assets/Insomnia_screenshot_routes.png)
+![Screenshot of Insomnia Routes](./Assets/Insomnia_screenshot_routes.png)
